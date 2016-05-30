@@ -1,5 +1,5 @@
 {
-  "name": "pcm2wav",
+  "name": "pcm2wav-stream",
   "version": "1.0.0",
   "description": "Add a WAV header to a PCM stream of known length",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/der-david/pcm2wav.git"
+    "url": "git+https://github.com/der-david/pcm2wav-stream.git"
   },
   "keywords": [
     "PCM",
@@ -23,9 +23,9 @@
   "author": "davdev",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/der-david/pcm2wav/issues"
+    "url": "https://github.com/der-david/pcm2wav-stream/issues"
   },
-  "homepage": "https://github.com/der-david/pcm2wav#readme",
+  "homepage": "https://github.com/der-david/pcm2wav-stream#readme",
   "dependencies": {
     "waveheader": "0.0.2"
   }
